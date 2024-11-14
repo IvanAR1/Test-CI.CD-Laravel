@@ -2,7 +2,7 @@
 # Deploy configuration for Laravel in production
 
 # Charge configuration variables
-source deploy/Win/Vars/windows.sh
+source deploy/Vars/windows.sh
 
 #Upload files server (example in windows)
 echo "Uploading files to server..."
